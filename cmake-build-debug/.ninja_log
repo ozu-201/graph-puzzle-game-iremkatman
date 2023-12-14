@@ -1,0 +1,7 @@
+# ninja log v5
+37	313	7242613397463468	CMakeFiles/graph_puzzle_game_iremkatman.dir/Array/Heap/Heap.cpp.obj	38336dbb64b7fcf8
+22	315	7242613397594465	CMakeFiles/graph_puzzle_game_iremkatman.dir/List/Graph/Edge.cpp.obj	df657d17bf2fc3af
+2	316	7242614031283786	build.ninja	7b52e4450ff80cec
+101	316	7242613867412014	graph_puzzle_game_iremkatman.exe	bd11cd86ba2e78ac
+0	100	7242613865309377	CMakeFiles/graph_puzzle_game_iremkatman.dir/Main.cpp.obj	624a06d4549a5073
+2	254	7242614031283786	build.ninja	7b52e4450ff80cec

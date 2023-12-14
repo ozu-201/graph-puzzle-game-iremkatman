@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "graph_puzzle_game_iremkatman",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructures_CPP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructures_CPP-Debug-c78e0a9d58934b8895c7.json",
+					"name" : "DataStructures_CPP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "graph_puzzle_game_iremkatman::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-graph_puzzle_game_iremkatman-Debug-8092723faf64f6ff36a9.json",
+					"name" : "graph_puzzle_game_iremkatman",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/nk024576/CLionProjects/graph-puzzle-game-iremkatman/cmake-build-debug",
+		"source" : "C:/Users/nk024576/CLionProjects/graph-puzzle-game-iremkatman"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

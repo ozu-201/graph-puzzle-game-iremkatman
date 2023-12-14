@@ -1,0 +1,4 @@
+C:/Users/nk024576/CLionProjects/graph-puzzle-game-iremkatman/cmake-build-debug/CMakeFiles/graph_puzzle_game_iremkatman.dir
+C:/Users/nk024576/CLionProjects/graph-puzzle-game-iremkatman/cmake-build-debug/CMakeFiles/DataStructures_CPP.dir
+C:/Users/nk024576/CLionProjects/graph-puzzle-game-iremkatman/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nk024576/CLionProjects/graph-puzzle-game-iremkatman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
