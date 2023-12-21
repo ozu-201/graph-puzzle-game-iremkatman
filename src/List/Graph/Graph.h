@@ -27,6 +27,8 @@ namespace list {
         void depthFirstSearch(bool* visited, int fromNode) override;
         void breadthFirstSearch(bool* visited, int startNode) override;
         Edge* edgeList(int& edgeCount) override;
+
+        bool hasEdge(int from, int to) const;
     };
 
 }
