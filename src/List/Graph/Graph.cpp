@@ -172,18 +172,5 @@ namespace list {
 
     }
 
-    bool Graph::hasEdge(int from, int to) const {
-        Edge *edge =edges[from.getHead()] {
-            while (edge != nullptr) {
-                if (edge -) {
-                    edge->edge.getnext();
-                }
-            }
 
-            return false;
-        }
-        int list::Graph getVertexCount()const{
-            return vertexCount;
-        }
-    }
 }
