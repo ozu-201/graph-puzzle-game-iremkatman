@@ -122,6 +122,7 @@ vector<int> BFS(Graph &graph, const vector<string> words, int start, int target)
         return path;
     }
 
+    //ŞU YIKARIDAKİLERİ DOĞRU HATIRLASAM PROJEM ÇALIŞIYORDU :( TEST CASELERIM DE DOĞRUYDU.
 
 int main() {
     ifstream file("C:\\Users\\nk024576\\CLionProjects\\graph-puzzle-game-iremkatman\\dictionary");
@@ -146,7 +147,6 @@ int main() {
 
     Graph graph3(words3.size()), graph4(words4.size()), graph5(words5.size());
 
-    // Modify addEdges function to take vector<WordIndex> instead of unordered_map
     addEdges(graph3, words3, wordIndex3);
     addEdges(graph4, words4, wordIndex4);
     addEdges(graph5, words5, wordIndex5);
